@@ -7,3 +7,6 @@ used a function to use those responses
 - created variables for the elements that were used to create a password 
 - used if statments to compare if certain choices were choosen by the user 
 - choosen choices then added the elements to our empty string 
+
+live link
+https://dherington1.github.io/Password-Randomizer/
